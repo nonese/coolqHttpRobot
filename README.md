@@ -1,0 +1,2 @@
+# coolqHttpRobot
+springboot框架下的使用cooqhttp Api进行开发的自定义级机器人
